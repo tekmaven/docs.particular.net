@@ -81,6 +81,7 @@
     <Compile Include="Errors\ErrorQueue\ProvideConfiguration.cs" />
     <Compile Include="Errors\ErrorQueue\ConfigurationSource\ConfigurationSource.cs" />
     <Compile Include="Errors\ErrorQueue\ConfigurationSource\Usage.cs" />
+    <Compile Include="Extending\QueueBindings.cs" />
     <Compile Include="HandlerOrdering.cs" />
     <Compile Include="Headers\MyMessage.cs" />
     <Compile Include="Headers\ReadHandler.cs" />
